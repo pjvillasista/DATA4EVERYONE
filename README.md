@@ -45,7 +45,7 @@ Welcome to the Data Analytics Resources repository! This project aims to provide
 
 3. **[Don’t Make Me Think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321965515)** by Steve Krug — A classic on web usability, providing insights into intuitive design and user experience that are also applicable to data visualization.
 
-4. **[The Big Book of Dashboards](https://www.amazon.com/dp/1119282713)**
+4. **[The Big Book of Dashboards](https://www.amazon.com/dp/1119282713)** — A comprehensive guide on creating effective, user-friendly dashboards. It provides practical examples and best practices across various industries, making it an invaluable resource for data visualization
 
 
 
