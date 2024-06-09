@@ -140,9 +140,8 @@ Welcome to the Data Analytics Resources repository! This project aims to provide
 9. **[Free-APIs](https://free-apis.github.io/)** - A Variety of APIs for software development to data analytics.
 10. **[Public APIS](https://github.com/public-apis/public-apis)** - GitHub Repo with different APIs for developers.
 11. **[PublicAPIs Dev](https://publicapis.dev/)** - Site with a list of APIs.
-12. **[Uber Transactional Data](https://developer.uber.com/docs/businesses/data-automation/data-download)**
-13. **[Mockaroo](https://mockaroo.com/)** - Generate Mock Data.
-14. **[Mockium](https://mockium.com/)** - Generate Test Data.
+12. **[Mockaroo](https://mockaroo.com/)** - Generate Mock Data.
+13. **[Mockium](https://mockium.com/)** - Generate Test Data.
 
 ## Markdown Tools
 
