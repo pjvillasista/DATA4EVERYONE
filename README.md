@@ -28,19 +28,33 @@ Welcome to the Data Analytics Resources repository! This project aims to provide
 ## Books
 
 ### SQL
-1. **[SQL Pocketbook](https://www.amazon.com/SQL-Pocketbook)** by Jonathan Gennick
-2. **[Ace the Data Science Interview](https://www.amazon.com/Ace-Data-Science-Interview)** by Kevin Huo and Nick Singh
-3. **[SQL for Data Scientists: A Beginner’s Guide for Building Datasets for Analysis](https://www.amazon.com/SQL-Data-Scientists-Beginners-Analysis/dp/1119669364)** by Renee M. P. Teate
-4. **[Learning SQL: Generate, Manipulate, and Retrieve Data](https://www.amazon.com/Learning-SQL-Generate-Manipulate-Retrieve/dp/0596520832)** by Alan Beaulieu
+1. **[SQL Pocketbook](https://www.amazon.com/SQL-Pocketbook)** by Jonathan Gennick — A compact guide ideal for quick reference, covering essential SQL commands and functions with clear examples. Perfect for beginners and experienced users needing a handy reference.
+
+2. **[Ace the Data Science Interview](https://www.amazon.com/Ace-Data-Science-Interview)** by Kevin Huo and Nick Singh — This book offers comprehensive insights into SQL interview questions and strategies, helping you excel in data science interviews with practical exercises and real-world scenarios.
+
+3. **[SQL for Data Scientists: A Beginner’s Guide for Building Datasets for Analysis](https://www.amazon.com/SQL-Data-Scientists-Beginners-Analysis/dp/1119669364)** by Renee M. P. Teate — Tailored for data scientists, this guide simplifies SQL concepts, focusing on building datasets for analysis with practical, real-world examples.
+
+4. **[Learning SQL: Generate, Manipulate, and Retrieve Data](https://www.amazon.com/Learning-SQL-Generate-Manipulate-Retrieve/dp/0596520832)** by Alan Beaulieu — A thorough introduction to SQL, covering data generation, manipulation, and retrieval with clear explanations and examples suitable for beginners.
+
+
 
 ### Data Visualization
-1. **[Storytelling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)** by Cole Nussbaumer Knaflic
-2. **[Effective Data Storytelling](https://www.amazon.com/Effective-Data-Storytelling-Drive-Results/dp/1119621496)** by Brent Dykes
-3. **[Don’t Make Me Think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321965515)** by Steve Krug
+1. **[Storytelling with Data](https://www.amazon.com/Storytelling-Data-Visualization-Business-Professionals/dp/1119002257)** by Cole Nussbaumer Knaflic — A must-read for learning to create compelling data visualizations, focusing on the art of storytelling to communicate data effectively.
+
+2. **[Effective Data Storytelling](https://www.amazon.com/Effective-Data-Storytelling-Drive-Results/dp/1119621496)** by Brent Dykes — Teaches how to transform data into impactful stories, emphasizing narrative techniques and visual design principles to engage and inform audiences.
+
+3. **[Don’t Make Me Think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321965515)** by Steve Krug — A classic on web usability, providing insights into intuitive design and user experience that are also applicable to data visualization.
+
+4. **[The Big Book of Dashboards](https://www.amazon.com/dp/1119282713)**
+
+
 
 ### Python
-1. **[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)** by Al Sweigart
-2. **[Big Book of Small Python Projects](https://www.amazon.com/Big-Book-Small-Python-Projects/dp/1718501242)** by Al Sweigart
+1. **[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)** by Al Sweigart — An accessible introduction to Python, teaching how to automate everyday tasks with practical examples through project-based learning, making it ideal for beginners. 
+
+2. **[Big Book of Small Python Projects](https://www.amazon.com/Big-Book-Small-Python-Projects/dp/1718501242)** by Al Sweigart — Contains 81 fun and creative projects to enhance your Python skills, ranging from simple games to useful utilities.
+
+
 
 ### Data Engineering
 1. **[Agile Data Warehouse Design](https://www.amazon.com/Agile-Data-Warehouse-Design-Principles/dp/0321774609)** by Lawrence Corr and Jim Stagnitto
@@ -53,16 +67,28 @@ Welcome to the Data Analytics Resources repository! This project aims to provide
 
 ## YouTubers
 
-1. **[Alex the Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg)**
-2. **[Luke Barousse](https://www.youtube.com/c/LukeBarousse)**
-3. **[Keith Galli](https://www.youtube.com/keithgalli)**
-4. **[Ken Jee](https://www.youtube.com/kenjee1)**
-5. **[Data With Mo](https://www.youtube.com/DataWithMo)**
-6. **[Rob Mulla](https://www.youtube.com/RobMulla)**
-7. **[Data Professor](https://www.youtube.com/DataProfessor)**
-8. **[Tiana Huang](https://www.youtube.com/TianaHuang)**
-9. **[StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)**
-10. **[Bro Code](https://www.youtube.com/BroCodez)** - Not data related, but his Python Full Course is one of the best courses out there.
+1. **[Alex the Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg)** — Alex provides comprehensive tutorials and career advice for aspiring data analysts. His content covers SQL, Excel, Power BI, and practical job-related tips.
+
+2. **[Luke Barousse](https://www.youtube.com/c/LukeBarousse)** — Luke's channel focuses on data science and machine learning, offering clear and engaging tutorials on Python, data visualization, and project-based learning.
+
+3. **[Keith Galli](https://www.youtube.com/keithgalli)** — Keith creates detailed tutorials on Python programming and data science, often featuring project-based learning and coding challenges.
+
+4. **[Ken Jee](https://www.youtube.com/kenjee1)** — Ken shares insights on data science careers, interview tips, and practical coding tutorials in Python, focusing on machine learning and analytics.
+
+5. **[Data With Mo](https://www.youtube.com/DataWithMo)** — Mo provides tutorials on data analysis, Python, and data visualization, often focusing on real-world applications and practical projects.
+
+6. **[Rob Mulla](https://www.youtube.com/RobMulla)** — Rob offers practical tutorials on data analytics, data science and machine leearning.
+
+7. **[Data Professor](https://www.youtube.com/DataProfessor)** — This channel offers comprehensive tutorials on data science, machine learning, and bioinformatics, with a focus on practical applications and coding in Python and R.
+
+8. **[Tiana Huang](https://www.youtube.com/TianaHuang)** — Tiana shares content on data analytics, career advice, and tutorials on tools like Excel, SQL, and Python, aimed at helping beginners break into the field.
+
+9. **[StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)** — Josh explains complex statistical concepts in a simple and engaging way, making it accessible for learners of all levels.
+
+
+10. **[Bro Code](https://www.youtube.com/BroCodez)** — While not focused on data analysis, Bro Code's Python Full Course is highly recommended for anyone looking to gain a solid foundation in Python programming.
+
+11. **[Tech With Tim](https://www.youtube.com/@TechWithTim)** — Tim breaks down Python really well for beginners. His channel also includes practical applications with Python not specific to data.
 
 ## Practice / Learning Platforms
 
