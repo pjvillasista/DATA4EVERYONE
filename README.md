@@ -1,4 +1,4 @@
-# Data4Everyone
+# 💫Data4Everyone
 
 Welcome to the Data Analytics Resources repository! This project aims to provide a comprehensive collection of resources to help you learn and master data analytics. Below you'll find curated lists of books, YouTubers, online courses, blogs, and other valuable resources.
 
@@ -92,25 +92,42 @@ Welcome to the Data Analytics Resources repository! This project aims to provide
 
 ## Practice / Learning Platforms
 
-1. **[Data Lemur](https://www.datalemur.com/)**
-2. **[Leetcode](https://leetcode.com/)**
-3. **[HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)**
-4. **[PracticePython](https://www.practicepython.org/)**
-5. **[SQLZoo](https://sqlzoo.net/)**
-6. **[W3Schools](https://www.w3schools.com/sql/)**
-7. **[CodeAcademy](https://www.codecademy.com/learn/learn-sql)**
-8. **[SQLPD](https://sqlpd.com/)**
-9. **[PGExercises](https://pgexercises.com/)**
-10. **[SQLClimber](https://www.sqlclimber.com/)**
-11. **[Strata Scratch](https://www.stratascratch.com/)**
-12. **[FreeCodeCamp](https://www.freecodecamp.org/)**
-13. **[SQLBolt](https://sqlbolt.com/)**
-14. **[SQLTranslate](https://sqltranslate.com/)**
-15. **[PostGresTutorial](https://www.postgresqltutorial.com/)**
-16. **[MySQLTutorial](https://www.mysqltutorial.org/)**
-17. **[DataCamp](https://www.datacamp.com/)**
+1. **[Data Lemur](https://www.datalemur.com/)** — Focused on data science and SQL interview preparation with real-world scenarios and questions to enhance practical skills.
 
-## Datasets
+2. **[Leetcode](https://leetcode.com/)** — Offers extensive coding challenges in various languages, including SQL, to improve problem-solving and algorithmic skills.
+
+3. **[HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)** — Provides a wide range of coding challenges and competitions in multiple languages, including SQL, with a focus on practical application.
+
+4. **[PracticePython](https://www.practicepython.org/)** — Features beginner-friendly exercises to practice Python programming, enhancing coding skills through hands-on learning.
+
+5. **[SQLZoo](https://sqlzoo.net/)** — Interactive SQL tutorials with hands-on exercises to practice querying skills and understanding database concepts.
+
+6. **[W3Schools](https://www.w3schools.com/sql/)** — Comprehensive tutorials on web development and SQL, with interactive examples and exercises for practical learning.
+
+7. **[CodeAcademy](https://www.codecademy.com/learn/learn-sql)** — Interactive platform offering beginner to advanced courses in various programming languages, including Python and SQL.
+
+8. **[SQLPD](https://sqlpd.com/)** — Offers SQL practice problems with a focus on data analysis, helping users enhance their SQL querying skills through real-world datasets.
+
+9. **[PGExercises](https://pgexercises.com/)** — Provides PostgreSQL exercises to practice and improve SQL skills with practical, hands-on queries.
+
+10. **[SQLClimber](https://www.sqlclimber.com/)** — Features SQL challenges and tutorials aimed at improving SQL skills progressively, with real-world scenarios and datasets.
+
+11. **[Strata Scratch](https://www.stratascratch.com/)** — Offers data science interview questions and SQL exercises with real-world datasets to enhance analytical skills.
+
+12. **[FreeCodeCamp](https://www.freecodecamp.org/)** — Provides comprehensive tutorials and interactive exercises in various programming languages, including Python and SQL.
+
+13. **[SQLBolt](https://sqlbolt.com/)** — Interactive lessons and exercises designed to teach SQL from the basics to advanced querying techniques.
+
+14. **[SQLTranslate](https://sqltranslate.com/)** — Helps users understand SQL queries by translating them into plain English, enhancing comprehension and practical application.
+
+15. **[PostGresTutorial](https://www.postgresqltutorial.com/)** — Comprehensive tutorials and exercises for learning PostgreSQL, covering basic to advanced topics with practical examples.
+
+16. **[MySQLTutorial](https://www.mysqltutorial.org/)** — Offers detailed tutorials and exercises to learn MySQL, from basics to advanced querying and database management.
+
+17. **[DataCamp](https://www.datacamp.com/)** — Interactive platform with courses in data science, Python, and SQL, providing hands-on learning through real-world projects and exercises.
+
+
+## Data 4 Your Projects
 
 1. **[Kaggle.com](https://www.kaggle.com/datasets)**
 2. **[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)** - GitHub Repository with different kinds of data sources to play with.
@@ -129,7 +146,6 @@ Welcome to the Data Analytics Resources repository! This project aims to provide
 
 ## Markdown Tools
 
-### Free
 1. **[Markdown Guide](https://www.markdownguide.org/)**
    - A comprehensive guide to Markdown syntax.
 
