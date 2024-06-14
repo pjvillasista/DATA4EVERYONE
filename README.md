@@ -1,5 +1,4 @@
 # 💫Data4Everyone
-![Resource Management](./Resource-Management.jpeg)
 
 Welcome to the Data Analytics Resources repository! This project aims to provide a comprehensive collection of resources to help you learn and master data analytics. Below you'll find curated lists of books, YouTubers, online courses, blogs, and other valuable resources.
 
