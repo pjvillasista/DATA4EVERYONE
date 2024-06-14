@@ -165,7 +165,6 @@ Welcome to the Data Analytics Resources repository! This project aims to provide
 
 ## Git Tools
 
-### Free
 1. **[Git](https://git-scm.com/)** — A distributed version control system.
 
 2. **[GitHub](https://github.com/)** — A web-based platform for version control and collaboration.
