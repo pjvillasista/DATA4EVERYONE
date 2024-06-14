@@ -74,67 +74,41 @@ Welcome to the Data Analytics Resources repository! This project aims to provide
 ## YouTubers
 
 1. **[Alex the Analyst](https://www.youtube.com/channel/UC7cs8q-gJRlGwj4A8OmCmXg)** — Alex provides comprehensive tutorials and career advice for aspiring data analysts. His content covers SQL, Excel, Power BI, and practical job-related tips.
-
 2. **[Luke Barousse](https://www.youtube.com/c/LukeBarousse)** — Luke's channel focuses on data science and machine learning, offering clear and engaging tutorials on Python, data visualization, and project-based learning.
-
 3. **[Keith Galli](https://www.youtube.com/keithgalli)** — Keith creates detailed tutorials on Python programming and data science, often featuring project-based learning and coding challenges.
-
 4. **[Ken Jee](https://www.youtube.com/kenjee1)** — Ken shares insights on data science careers, interview tips, and practical coding tutorials in Python, focusing on machine learning and analytics.
-
 5. **[Data With Mo](https://www.youtube.com/DataWithMo)** — Mo provides tutorials on data analysis, Python, and data visualization, often focusing on real-world applications and practical projects.
-
 6. **[Rob Mulla](https://www.youtube.com/RobMulla)** — Rob offers practical tutorials on data analytics, data science and machine leearning.
-
 7. **[Data Professor](https://www.youtube.com/DataProfessor)** — This channel offers comprehensive tutorials on data science, machine learning, and bioinformatics, with a focus on practical applications and coding in Python and R.
-
 8. **[Tiana Huang](https://www.youtube.com/TianaHuang)** — Tiana shares content on data analytics, career advice, and tutorials on tools like Excel, SQL, and Python, aimed at helping beginners break into the field.
-
 9. **[StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)** — Josh explains complex statistical concepts in a simple and engaging way, making it accessible for learners of all levels.
 
 
-10. **[Bro Code](https://www.youtube.com/BroCodez)** — While not focused on data analysis, Bro Code's Python Full Course is highly recommended for anyone looking to gain a solid foundation in Python programming.
-
+10. **[Bro Code](https://www.youtube.com/BroCodez)** — While not focused on data analysis, Bro Code's Python Full Course is highly recommended for anyone looking to gain a solid foundation in Python programming
 11. **[Tech With Tim](https://www.youtube.com/@TechWithTim)** — Tim breaks down Python really well for beginners. His channel also includes practical applications with Python not specific to data.
 
+    
 ## Practice / Learning Platforms
-
 1. **[Data Lemur](https://www.datalemur.com/)** — Focused on data science and SQL interview preparation with real-world scenarios and questions to enhance practical skills.
-
 2. **[Leetcode](https://leetcode.com/)** — Offers extensive coding challenges in various languages, including SQL, to improve problem-solving and algorithmic skills.
-
 3. **[HackerRank](https://www.hackerrank.com/domains/tutorials/10-days-of-statistics)** — Provides a wide range of coding challenges and competitions in multiple languages, including SQL, with a focus on practical application.
-
 4. **[PracticePython](https://www.practicepython.org/)** — Features beginner-friendly exercises to practice Python programming, enhancing coding skills through hands-on learning.
-
 5. **[SQLZoo](https://sqlzoo.net/)** — Interactive SQL tutorials with hands-on exercises to practice querying skills and understanding database concepts.
-
 6. **[W3Schools](https://www.w3schools.com/sql/)** — Comprehensive tutorials on web development and SQL, with interactive examples and exercises for practical learning.
-
 7. **[CodeAcademy](https://www.codecademy.com/learn/learn-sql)** — Interactive platform offering beginner to advanced courses in various programming languages, including Python and SQL.
-
 8. **[SQLPD](https://sqlpd.com/)** — Offers SQL practice problems with a focus on data analysis, helping users enhance their SQL querying skills through real-world datasets.
-
 9. **[PGExercises](https://pgexercises.com/)** — Provides PostgreSQL exercises to practice and improve SQL skills with practical, hands-on queries.
-
 10. **[SQLClimber](https://www.sqlclimber.com/)** — Features SQL challenges and tutorials aimed at improving SQL skills progressively, with real-world scenarios and datasets.
-
 11. **[Strata Scratch](https://www.stratascratch.com/)** — Offers data science interview questions and SQL exercises with real-world datasets to enhance analytical skills.
-
 12. **[FreeCodeCamp](https://www.freecodecamp.org/)** — Provides comprehensive tutorials and interactive exercises in various programming languages, including Python and SQL.
-
 13. **[SQLBolt](https://sqlbolt.com/)** — Interactive lessons and exercises designed to teach SQL from the basics to advanced querying techniques.
-
 14. **[SQLTranslate](https://sqltranslate.com/)** — Helps users understand SQL queries by translating them into plain English, enhancing comprehension and practical application.
-
 15. **[PostGresTutorial](https://www.postgresqltutorial.com/)** — Comprehensive tutorials and exercises for learning PostgreSQL, covering basic to advanced topics with practical examples.
-
 16. **[MySQLTutorial](https://www.mysqltutorial.org/)** — Offers detailed tutorials and exercises to learn MySQL, from basics to advanced querying and database management.
-
 17. **[DataCamp](https://www.datacamp.com/)** — Interactive platform with courses in data science, Python, and SQL, providing hands-on learning through real-world projects and exercises.
 
 
 ## Data 4 Your Projects
-
 1. **[Kaggle.com](https://www.kaggle.com/datasets)**
 2. **[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)** - GitHub Repository with different kinds of data sources to play with.
 3. **[Clubhouse Data](https://www.clubhousedata.com/)**
@@ -152,25 +126,16 @@ Welcome to the Data Analytics Resources repository! This project aims to provide
 ## Markdown Tools
 
 1. **[Markdown Guide](https://www.markdownguide.org/)** — A comprehensive guide to Markdown syntax.
-
 2. **[Dillinger](https://dillinger.io/)** — An online Markdown editor.
-
 3. **[readme.so](https://readme.so/)** — A simple editor to create README files in Markdown.
-
 4. **[StackEdit](https://stackedit.io/)** — An online Markdown editor with real-time collaboration features.
-
 5. **[Markdownify](https://markdownify.js.org/)** — An online Markdown editor.
-
 6. **[Markdown Link Check](https://github.com/tcort/markdown-link-check)** — A tool to check Markdown files for dead links.
 
+   
 ## Git Tools
-
 1. **[Git](https://git-scm.com/)** — A distributed version control system.
-
 2. **[GitHub](https://github.com/)** — A web-based platform for version control and collaboration.
-
 3. **[GitLab](https://about.gitlab.com/)** — A web-based DevOps lifecycle tool.
-
 4. **[Bitbucket](https://bitbucket.org/product)** — A Git repository management solution.
-
 5. **[GitKraken](https://www.gitkraken.com/)** — A cross-platform Git GUI.
