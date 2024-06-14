@@ -151,38 +151,27 @@ Welcome to the Data Analytics Resources repository! This project aims to provide
 
 ## Markdown Tools
 
-1. **[Markdown Guide](https://www.markdownguide.org/)**
-   - A comprehensive guide to Markdown syntax.
+1. **[Markdown Guide](https://www.markdownguide.org/)** — A comprehensive guide to Markdown syntax.
 
-2. **[Dillinger](https://dillinger.io/)**
-   - An online Markdown editor.
+2. **[Dillinger](https://dillinger.io/)** — An online Markdown editor.
 
-3. **[readme.so](https://readme.so/)**
-   - A simple editor to create README files in Markdown.
+3. **[readme.so](https://readme.so/)** — A simple editor to create README files in Markdown.
 
-4. **[StackEdit](https://stackedit.io/)**
-   - An online Markdown editor with real-time collaboration features.
+4. **[StackEdit](https://stackedit.io/)** — An online Markdown editor with real-time collaboration features.
 
-5. **[Markdownify](https://markdownify.js.org/)**
-   - An online Markdown editor.
+5. **[Markdownify](https://markdownify.js.org/)** — An online Markdown editor.
 
-6. **[Markdown Link Check](https://github.com/tcort/markdown-link-check)**
-   - A tool to check Markdown files for dead links.
+6. **[Markdown Link Check](https://github.com/tcort/markdown-link-check)** — A tool to check Markdown files for dead links.
 
 ## Git Tools
 
 ### Free
-1. **[Git](https://git-scm.com/)**
-   - A distributed version control system.
+1. **[Git](https://git-scm.com/)** — A distributed version control system.
 
-2. **[GitHub](https://github.com/)**
-   - A web-based platform for version control and collaboration.
+2. **[GitHub](https://github.com/)** — A web-based platform for version control and collaboration.
 
-3. **[GitLab](https://about.gitlab.com/)**
-   - A web-based DevOps lifecycle tool.
+3. **[GitLab](https://about.gitlab.com/)** — A web-based DevOps lifecycle tool.
 
-4. **[Bitbucket](https://bitbucket.org/product)**
-   - A Git repository management solution.
+4. **[Bitbucket](https://bitbucket.org/product)** — A Git repository management solution.
 
-5. **[GitKraken](https://www.gitkraken.com/)**
-   - A cross-platform Git GUI.
+5. **[GitKraken](https://www.gitkraken.com/)** — A cross-platform Git GUI.
