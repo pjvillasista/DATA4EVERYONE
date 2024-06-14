@@ -56,6 +56,12 @@ Welcome to the Data Analytics Resources repository! This project aims to provide
 
 
 
+### Business Acumen
+1. **[Financial Intelligence](https://www.amazon.com/Financial-Intelligence-Revised-Managers-Knowing/dp/1422144119)** by Karen Berman and Joe Knight — Breaks down financial jargon, making it accessible and practical for better business decision-making.
+2. **[The Personal MBA](https://www.amazon.com/Personal-MBA-Master-Art-Business/dp/1591845572)** by Josh Kaufman — Offers a comprehensive overview of key business concepts, making it a valuable resource for understanding business fundamentals quickly.
+
+
+
 ### Data Engineering
 1. **[Agile Data Warehouse Design](https://www.amazon.com/Agile-Data-Warehouse-Design-Principles/dp/0321774609)** by Lawrence Corr and Jim Stagnitto
 2. **[Ralph Kimball’s Data Warehouse](https://www.amazon.com/Data-Warehouse-Toolkit-Definitive-Dimensional/dp/1118530802)** by Ralph Kimball
